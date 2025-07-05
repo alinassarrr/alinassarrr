@@ -5,8 +5,8 @@
 🧑‍💻 Currently on a mission to become a **Full-Stack Software Engineer**  
 💡 Passionate about building cool stuff, integrating AI, and making clean code that doesn’t scream in production  
 🌱 Learning: `JavaScript`, `React`, `PHP`, `Laravel`, `MySQL`, `TypeScript`, and more!
-🐞 Squashing bugs in software and reality.
 🧠 Favorite stack: One that doesn’t break on Friday.
+🐞 Squashing bugs in software and reality.
 
 ---
 
