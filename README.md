@@ -36,23 +36,30 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
 ---
+<h2 align="center">📈 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alinassarrr&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=alinassarrr&theme=nightowl&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinassarrr&theme=nightowl&hide_border=false&layout=compact" />
+</div>
 
-## 📈 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=alinassarrr&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com?user=alinassarrr&theme=nightowl&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alinassarrr&theme=nightowl&hide_border=false&layout=compact)
+<hr/>
 
----
+<h2 align="center">🏆 GitHub Trophies</h2>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alinassarrr&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alinassarrr&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<hr/>
 
----
+<h3 align="center">✍️ Random Dev Quote</h3>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
+<hr/>
 
 ### 😎 Fun Facts
 - 🧩 I treat code like LEGO — piece by piece, then boom: a cool project
