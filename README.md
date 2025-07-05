@@ -1,5 +1,6 @@
-# 💫 About Me:
-### 👋 Hey there, I’m Ali!<br><br>🚀 I'm on an exciting journey to become a **Full-Stack Software Engineer**, constantly building, breaking, and learning.<br>💡 Passionate about **creating real-world solutions**, exploring **AI integration**, and writing clean, meaningful code.<br>🌱 Currently sharpening my skills in **JavaScript, React, PHP, Laravel, MySQL**, and more — one day, one commit at a time.<br>📚 Always learning, always improving — because **growth never stops**.<br>🛠️ I believe that **discipline beats motivation**, and that **small steps every day lead to big results**.<br><br> *"Your future self is already proud of you. Keep going 💪🔥"*
+
+# 👋 Hey there, I’m Ali!
+<br><br>🚀 I'm on an exciting journey to become a **Full-Stack Software Engineer**, constantly building, breaking, and learning.<br>💡 Passionate about **creating real-world solutions**, exploring **AI integration**, and writing clean, meaningful code.<br>🌱 Currently sharpening my skills in **JavaScript, React, PHP, Laravel, MySQL**, and more — one day, one commit at a time.<br>📚 Always learning, always improving — because **growth never stops**.<br>🛠️ I believe that **discipline beats motivation**, and that **small steps every day lead to big results**.<br><br> *"Your future self is already proud of you. Keep going 💪🔥"*
 
 
 ## 🌐 Socials:
