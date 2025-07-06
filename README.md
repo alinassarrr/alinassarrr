@@ -60,13 +60,6 @@
 
 <hr/>
 
-### 😎 Fun Facts
-- 🧩 I treat code like LEGO — piece by piece, then boom: a cool project
-- 🍕 Best ideas happen after midnight (or with pizza)
-- 😵‍💫 My code works... until someone asks how
-
----
-
 [![](https://visitcount.itsvg.in/api?id=alinassarrr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- README proudly crafted with synaptron-creocore -->
