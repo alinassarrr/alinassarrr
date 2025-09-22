@@ -3,9 +3,9 @@
 ![header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-🧑‍💻 Currently on a mission to become a **Full-Stack Software Engineer**<br>
+🧑‍💻 A **Full-Stack Software Engineer**<br>
 💡 Passionate about building cool stuff, integrating AI, and making clean code that doesn’t scream in production<br>
-🌱 Learning: `JavaScript`, `React`, `PHP`, `Laravel`, `MySQL`, `TypeScript`, and more!<br>
+🌱 Learning: `JavaScript`, `React`, `NextJs`, `NestJS`, `PHP`, `Laravel`, `MySQL`, `MongoDB`, `TypeScript`, and more!<br>
 🐞 Squashing bugs in software and reality<br>
 🧠 Favorite stack: One that doesn’t break on Friday
 
