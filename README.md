@@ -3,11 +3,12 @@
 ![header](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 <a href="https://github.com/alinassarrr">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=82AAFF&width=650&lines=Full-Stack+Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Integrating+AI+into+things+that+ship+%F0%9F%A4%96;Clean+code+that+doesn't+scream+in+production;git+push+--force+on+Friday%3F+Never." alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=82AAFF&width=650&lines=Full-Stack+Software+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Integrating+AI+into+things+that+ship+%F0%9F%A4%96;Building+AI+agents+with+Claude+Code+%E2%9A%A1;Clean+code+that+doesn't+scream+in+production;git+push+--force+on+Friday%3F+Never." alt="Typing intro" />
 </a>
 
 🧑‍💻 A **Full-Stack Software Engineer**<br>
 💡 Passionate about building cool stuff, integrating AI, and making clean code that doesn’t scream in production<br>
+🤖 Building AI agents, RAG pipelines, and shipping faster with **Claude Code**<br>
 🛠️ Building with: `JavaScript`, `TypeScript`, `React`, `Next.js`, `NestJS`, `PHP`, `Laravel`, `MySQL`, `MongoDB`<br>
 🌱 Always learning: new frameworks, better patterns, and why it worked on my machine<br>
 🐞 Squashing bugs in software and reality<br>
@@ -34,6 +35,24 @@
 
 ---
 
+## 🤖 AI & Agents
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Claude_API-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/MCP-011627?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/AI_Agents-C792EA?style=for-the-badge&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-7FDBCA?style=for-the-badge&logoColor=011627" alt="RAG" />
+</p>
+
+- 🧠 **Multi-agent systems** — designed the dual-agent pipeline behind [ConvoVerse](https://github.com/alinassarrr/convoverse) that turns raw chats into summaries and action items
+- 🔎 **RAG & semantic search** across conversations from Slack, Gmail and more
+- ⚙️ **Workflow automation** with n8n, webhooks and LLM calls glued together
+- ⚡ **Agentic coding with Claude Code** — subagents, MCP tools and custom workflows so the boring parts write themselves
+
+---
+
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=alinassarrr&theme=nightowl&hide_border=true&include_all_commits=true&show_icons=true" height="165" />
@@ -47,13 +66,21 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alinassarrr&theme=nightowl" width="100%" />
 </div>
 
-<h2 align="center">🐍 Eating My Contributions</h2>
+<h2 align="center">🚀 Featured Projects</h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alinassarrr/alinassarrr/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alinassarrr/alinassarrr/output/github-snake.svg" />
-    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/alinassarrr/alinassarrr/output/github-snake-dark.svg" />
-  </picture>
+  <a href="https://github.com/alinassarrr/convoverse">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=alinassarrr&repo=convoverse&theme=nightowl&hide_border=true" />
+  </a>
+  <a href="https://github.com/alinassarrr/travel-app">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=alinassarrr&repo=travel-app&theme=nightowl&hide_border=true" />
+  </a>
+  <br/>
+  <a href="https://github.com/alinassarrr/Mental-Health-Referral-">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=alinassarrr&repo=Mental-Health-Referral-&theme=nightowl&hide_border=true" />
+  </a>
+  <a href="https://github.com/alinassarrr/seniorgym">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=alinassarrr&repo=seniorgym&theme=nightowl&hide_border=true" />
+  </a>
 </div>
 
 <hr/>
