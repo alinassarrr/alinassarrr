@@ -36,15 +36,15 @@
 
 <h2 align="center">📈 GitHub Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinassarrr&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alinassarrr&theme=nightowl&hide_border=true&layout=compact" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=alinassarrr&theme=nightowl&hide_border=true&include_all_commits=true&show_icons=true" height="165" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=alinassarrr&theme=nightowl&hide_border=true&layout=compact" height="165" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=alinassarrr&theme=nightowl&hide_border=true" />
 </div>
 
 <h2 align="center">📊 Contribution Activity</h2>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alinassarrr&bg_color=011627&color=82AAFF&line=C792EA&point=7FDBCA&area=true&area_color=C792EA&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alinassarrr&theme=nightowl" width="100%" />
 </div>
 
 <h2 align="center">🐍 Eating My Contributions</h2>
@@ -60,7 +60,7 @@
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alinassarrr&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img src="https://github-trophies.vercel.app/?username=alinassarrr&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
 
 <hr/>
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=alinassarrr&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile views](https://komarev.com/ghpvc/?username=alinassarrr&label=Profile%20views&color=C792EA&style=for-the-badge)
 
 </div>
 
