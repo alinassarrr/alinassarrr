@@ -66,23 +66,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alinassarrr&theme=nightowl" width="100%" />
 </div>
 
-<h2 align="center">🚀 Featured Projects</h2>
-<div align="center">
-  <a href="https://github.com/alinassarrr/convoverse">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=alinassarrr&repo=convoverse&theme=nightowl&hide_border=true" />
-  </a>
-  <a href="https://github.com/alinassarrr/travel-app">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=alinassarrr&repo=travel-app&theme=nightowl&hide_border=true" />
-  </a>
-  <br/>
-  <a href="https://github.com/alinassarrr/Mental-Health-Referral-">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=alinassarrr&repo=Mental-Health-Referral-&theme=nightowl&hide_border=true" />
-  </a>
-  <a href="https://github.com/alinassarrr/seniorgym">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=alinassarrr&repo=seniorgym&theme=nightowl&hide_border=true" />
-  </a>
-</div>
-
 <hr/>
 
 <h2 align="center">🏆 GitHub Trophies</h2>
